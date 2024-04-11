@@ -1,4 +1,4 @@
-# Projeto 3
+# Desafio - Processando e Transformando Dados com Power BI
 
 Nesse projeto foi criado um Banco de Dados MySql no Azure, inserindo os dados e também integrando esse banco de dados com o Workbanch e o Power BI,
 Fiz o ETL para poder tranformar os dados para trazer tabelas fatos e dimensões para assim ter melhor desempenho dos dados na hora de criar os relacionamento e também quando fazer a criação das metricas necessarias para fazer uma análise mas coerente dos dados.
