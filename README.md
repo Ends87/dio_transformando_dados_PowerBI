@@ -3,7 +3,7 @@
 Neste projeto, criei um banco de dados MySql no Azure, inseri dados e integrei o banco de dados com Workbanch e Power BI,
 Faço ETL para poder transformar os dados para trazer tabelas de fatos e tabelas de dimensões para obter melhor desempenho dos dados na hora de criar relacionamentos e criar as métricas necessárias para uma análise mais consistente dos dados.
 
-##Lista de tabelas criadas:
+## Lista de tabelas criadas:
 
 - dCalendario: criado através da função "CALENDARAUTO()" utilizando a linguagem dax;
 - dDept: Tabela de dimensões criada para introduzir dados relacionados ao departamento. Para introduzir esta tabela foi criada uma consulta SQL:
